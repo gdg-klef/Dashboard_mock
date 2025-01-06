@@ -31,20 +31,29 @@ Follow these steps to set up the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-visualization-dashboard.git
-   cd data-visualization-dashboard
+   git clone https://github.com/gdg-klef/Dashboard_mock.git
+   cd Dashboard_mock
 
 2. Install dependencies:
     ```bash
     npm install
-        or 
-    yarn install
+    ```
+   or
 
-3. Start the deployment server
+   ```bash
+   yarn install
+   ```
+
+
+4. Start the deployment server
    ```bash
    npm run dev
-       or
+   ```
+   or
+
+   ```bash
    yarn dev
+   ```
 
 
 Future Enhancements
